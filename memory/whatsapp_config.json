@@ -1,0 +1,16 @@
+{
+  "auto_reply_enabled": true,
+  "auto_reply_allowlist": [],
+  "auto_reply_blocklist": [],
+  "keyword_patterns": [],
+  "contact_aliases": {
+    "Chotu": "+91841937359",
+    "Aai": "Deu.. Siso💞",
+    "Baba": "Baba"
+  },
+  "message_log_enabled": true,
+  "max_replies_per_hour": 10,
+  "speak_auto_reply_before_send": false,
+  "poller_enabled": true,
+  "poll_interval_seconds": 20
+}
