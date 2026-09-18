@@ -26,6 +26,8 @@ memory/baileys_auth/              # Baileys Multi-Device auth credentials (TREAT
 memory/baileys_uploads/           # Baileys temporary upload staging
 memory/baileys_*.log              # Baileys gateway process output
 memory/baileys_events.jsonl       # Baileys incoming event log (PII)
+memory/baileys_events.jsonl
+memory/whatsapp_browser_profile/
 # ── Baileys WhatsApp service ────────────────────────────────────────────────
 services/whatsapp-baileys/node_modules/
 services/whatsapp-baileys/package-lock.json
