@@ -292,6 +292,10 @@ Engineered by a developer building a real-world SK-style assistant.
 | --- | --- |
 | YouTube | [@FatihMakes](https://www.youtube.com/@FatihMakes) |
 | Instagram | [@fatihmakes](https://www.instagram.com/fatihmakes) |
-#   S K - A I  
- #   S K - A I  
+#   S K - A I 
+ 
+ #   S K - A I 
+
+fix the changes
+ 
  
